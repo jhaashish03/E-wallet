@@ -1,0 +1,1 @@
+	E-Wallet App like Paytm- Backend Project build on spring boot micro-services architecture, including Apache-Kafka, Redis, java mail sender, spring security, multithreading, MySQL having the integration of RazorPay Payment Gateway to add money to wallet.
